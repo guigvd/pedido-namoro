@@ -25,6 +25,7 @@ h1{
 .btn-box{
     margin-top: 3rem;
     position: relative;
+    right: 3.5%;
 }
 
 button:first-of-type{
